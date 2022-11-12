@@ -2,7 +2,7 @@ Please click on the edit icon to see the properly formatted report.
 
 The Black76 formula is taken from the following resource, which is used also to validate the input data. 
 https://www.lme.com/en/trading/contract-types/options/black-scholes-76-formula
-This has been chosen as a sufficient testing example as it is step by step and breaks down the intermediate values clearly. Due to time constrain
+This has been chosen as a sufficient testing example as it is step by step and breaks down the intermediate values clearly. 
 
 The project contains the following files:
 
