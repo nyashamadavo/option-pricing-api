@@ -1,3 +1,5 @@
+Please click on the edit icon to see the properly formatted report. 
+
 The project contains the following files:
 
 app.py - the flask application with routes
